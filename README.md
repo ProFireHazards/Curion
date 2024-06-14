@@ -2,7 +2,7 @@ This is the Curion HUD for Python, it can be used on Debian-based Linux desktop 
 
 1. Install the required things using CurionV2/darknet/Curion downoad.py
 
-2. Launch Curion-HUD.py
+2. Launch CurionV2/darknet/Curion-HUD.py
 
 3. Fiddle with cv2.VideoCapture(0) and change 0 to different values until your camera shows up on startup
 
