@@ -1,3 +1,44 @@
-https://drive.google.com/file/d/18td3HpX9NSedb3zZtihAZfCCqbhFMJfb/view?usp=sharing
 
-Made with YOLO V3/ YOLO V5
+PROUDLY made with YOLO V3 / YOLO V5!!!!!
+
+ALL ARE STANDALONE BUILDS. 
+
+MAIN BUILDS:
+
+V2: https://drive.google.com/file/d/1xSQR1wrFhnjvLSRZMIPtMFDMxbSwmBfy/view?usp=drive_link
+
+V4: https://drive.google.com/file/d/19kpV2FQb6cWLoWxthg_ngCZIPk483Mhz/view?usp=drive_link
+
+BUILD YOUR OWN WHATEVER:
+
+Assistant (probably better BASE): https://drive.google.com/file/d/1D60LeD27rXZc9g2lM8ALIdBiid0xHDIr/view?usp=drive_link
+
+Assistant (experimental branch??): https://drive.google.com/file/d/1NCowdOM6ygqGyok22HMxS2ADCiHvO6SZ/view?usp=drive_link
+
+LOST, BROKEN, AND NON-ARCHIVED BUILDS:
+
+BASE: https://drive.google.com/file/d/1eK5bstkFnPw12HRU5C5w7JzXLW20L6re/view?usp=sharing
+
+VISTA: https://drive.google.com/file/d/1O-69lZfYpCLuxhyV-OCG7kpyqDFvL0q8/view?usp=sharing
+
+V3: LOST
+
+V1: TO BE ARCHIVED (really broken and fragmented)
+
+
+
+Descriptions:
+
+V3 was a bridge between V2 and V4 a near-complete re-write, a hybrid of sorts, turned into V4.
+
+V2 was the ORIGINAL HUD. It was made of spaghetti code and got too hard to keep up with.
+
+V1 was a bit of a test. An eyeball that followed you with music and a stylized display. This was the original vision, not you seeing the world but rather a Curious AI (HA! The name!) watching you. Spaghetti code so bad I need to rebuild it to get it to work. It was meant to learn dynamically based on what it saw and researched, was created about a month or so before LLMs blew up.
+
+Vista and Base were attempts at making a "DIY modular" version of the HUD and assistant. It did not work.
+
+The "Assistant" branch is a bit of what Vista and Base tried to be, made stuff modular and made V3 become V4.
+
+The experimental assistant branch I think was the test for adding Yolo V5 rather than V3, and I am fairly sure I didn't finish and it got abandoned and broken, I kinda just implimented it without testing and this branch wasn't really needed.
+
+V4 Is the current in-development version, it's near complete, it needs a splashscreen, clock, subtitles, translation, auto-lobotomizer (IMPORTANT), and possibly a log mode (like V2).
