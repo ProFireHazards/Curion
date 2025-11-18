@@ -1,3 +1,4 @@
+Curion is a Python-based voice-driven HUD and AI assistant using YOLO V3/V5. It provides a modular framework for building real-time object detection HUDs and voice interactions.
 
 INFO:
 
