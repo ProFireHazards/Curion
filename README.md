@@ -1,4 +1,4 @@
-This is the Curion HUD for Python, it can be used on Debian-based Linux desktop systems and windows probably to build custom heads-up-display headsets. It is made with YOLO V3/V5!
+This is the Curion HUD and AI assistant for Python, it can be used on Debian-based Linux desktop systems and windows probably to build custom heads-up-display headsets. It is made with YOLO V3/V5!
 1. Ignore all these steps it's all outdated, you are all on your own.
    
 2. Install the required things using CurionV2/darknet/Curion downoad.py
